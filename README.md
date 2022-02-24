@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EswarBenarjee
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me "eswar.benarjee2002@gmail.com"
 

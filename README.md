@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me "eswar.benarjee2002@gmail.com"
+- 📫 Reach me on "eswar.benarjee2002@gmail.com"
 
 <!---
 EswarBenarjee/EswarBenarjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

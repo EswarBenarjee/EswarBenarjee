@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 Reach me on "eswar.benarjee2002@gmail.com"
-- ⌨ 48 Words per minute Typing speed.
+- ⌨ Typing speed: 48 words per minute.
 
 <!---
 EswarBenarjee/EswarBenarjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

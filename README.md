@@ -1,13 +1,14 @@
 <h1 align="left">Hi 👋, I'm Eswar Benarjee</h1>
 <h3 align="left">Full Stack Developer and Machine Learning Engineer</h3>
 
+
 - 🔭 I’m currently working at [**Content QL**](https://contentql-web.vercel.app/)
-
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning [**Socket IO**](https://socket.io/get-started/chat)
-
+- 💞️ I’m looking to collaborate on Web Development projects
 - 💬 Ask me about **Next JS, MERN, MySQL, ML, DL, NLP**
-
 - 📫 Reach Me @ **<a href="mailto:eswar.benarjee2002@gmail.com">eswar.benarjee2002@gmail.com</a>**
+- ⌨ Typing speed: 48 words per minute.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 <h3 align="left">Full Stack Developer and Machine Learning Engineer</h3>
 
 
-- 🔭 I’m currently working at [**Content QL**](https://contentql-web.vercel.app/)
+<!---  - 🔭 I’m currently working at [**Content QL**](https://contentql-web.vercel.app/)  --->
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning [**Socket IO**](https://socket.io/get-started/chat)
 - 💞️ I’m looking to collaborate on Web Development projects

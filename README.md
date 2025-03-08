@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on Web Development projects
 - 💬 Ask me about **Next JS, MERN, MySQL, ML, DL, NLP**
 - 📫 Reach Me @ **<a href="mailto:eswar.benarjee2002@gmail.com">eswar.benarjee2002@gmail.com</a>**
-- ⌨ Typing speed: 48 words per minute.
+- ⌨ Typing speed: 65 words per minute.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
